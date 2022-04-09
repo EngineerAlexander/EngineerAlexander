@@ -8,6 +8,7 @@ I obtained my degree in Mechanical Engineering at University of California, San 
 
 
 I've done stints at:
+
 -UCSD Medically Advanced Devices Laboratory
 -developing a computer vision system in ImageJ and MATALB to automatically analyze hundreds of videos of microfluidic droplet ejection for research pertaining to a new type of 3D-printing technology that features a buildplate above the printing material.
 
