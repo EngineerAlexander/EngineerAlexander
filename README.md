@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on ... Cryptocurrency and trading codebases.
 - 📫 How to reach me ... https://www.bijancreates.com
 
-<!---
-EngineerAlexander/EngineerAlexander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I obtained my degree in Mechanical Engineering at University of California, San Diego in 2020 where I discovered a love for computer science and open-source projects. Shortly thereafter, I fell down the rabbit-hole of crypto and all it has to offer for humanity.
+
+I've done stints at:
+-UCSD Medically Advanced Devices Laboratory developing a computer vision system in ImageJ and MATALB to automatically analyze hundreds of videos of microfluidic droplet ejection for research pertaining to a new type of 3D-printing technology that features a buildplate above the printing material.
+-HP Inc. as a microfluidic computer vision engineer working with Python and Java to create an automated code-pipeline and internal library for analyzing thousands of microfluidic flow videos.
+-Northrop Grumman as a space dynamics engineer working on the James Webb Space Telescope, developing Nastran-MATLAB pipelines in Linux for computationally intensive physics simulations based on space vehicle lifetime events.
+-Boeing as a software engineer working with Linux, C++, TCL to verify software running onboard satellites.
