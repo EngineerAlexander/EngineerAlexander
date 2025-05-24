@@ -2,11 +2,13 @@
   <img src="images/profile-header.jpg" alt="Profile Header" width="800"/>
   
   <p>
-    <a href="https://www.bijancreates.com" target="_blank">
-      <img src="https://img.shields.io/badge/My_Portfolio-Bijan_Creates-255?style=social&logo=homeassistant" alt="Website"/>
+    <a href="https://www.bijancreates.com" target="_blank" style="text-decoration: none; color: inherit; margin-right: 15px;">
+      <img src="images/bijan-creates-logo.png" alt="Bijan Creates Website" height="30" style="vertical-align: middle;"/>
+      <span style="vertical-align: middle; font-weight: bold;">My Portfolio</span>
     </a>
-    <a href="https://www.linkedin.com/in/alexander-bijan-ardalan/" target="_blank">
-      <img src="https://img.shields.io/badge/Connect_with_Me-LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <a href="https://www.linkedin.com/in/alexander-bijan-ardalan/" target="_blank" style="text-decoration: none; color: inherit;">
+      <img src="images/linkedin-logo.png" alt="LinkedIn Profile" height="30" style="vertical-align: middle;"/>
+      <span style="vertical-align: middle; font-weight: bold;">Connect on LinkedIn</span>
     </a>
   </p>
 </div>
@@ -41,7 +43,7 @@ I've had the privilege of developing software at:
 ## 🌱 Specializations
 
 -   **Top Languages:** Python, C++, Typescript
--   **Scripting/Shells:** .csh, .zsh, .sh, .ksh
+-   **Shells:** .csh, .zsh, .sh, .ksh
 -   **OS:** MacOS, Windows, Linux
 
 ---
