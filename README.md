@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/profile-header.jpg" alt="Profile Header" width="800"/>
+  <img src="images/profile-header.png" alt="Profile Header" width="800"/>
   
   <p>
     <a href="https://www.bijancreates.com" target="_blank" style="text-decoration: none; color: inherit; margin-right: 15px;">
@@ -26,6 +26,7 @@ I've had the privilege of developing software at:
 - HP Inc.
 - Northrop Grumman
 - Boeing
+- Apple
 
 ---
 
